@@ -1,2 +1,12 @@
 # playingcards-rooms
-Rooms for playingcards.io
+
+Some [custom rooms](https://playingcards.io/docs/room-import-export) for [playingcards.io](https://playingcards.io/).
+
+
+## Mensch ärgere dich nicht!
+
+![Mensch ärgere Dich nicht!](mensch-ärgere-dich-nicht.jpg)
+
+Room file: [mensch-ärgere-dich-nicht.pcio](mensch-ärgere-dich-nicht.pcio)
+
+Board image taken from [Wikipedia](https://en.wikipedia.org/wiki/Mensch_%C3%A4rgere_Dich_nicht).
