@@ -10,3 +10,12 @@ Some [custom rooms](https://playingcards.io/docs/room-import-export) for [playin
 Room file: [mensch-ärgere-dich-nicht.pcio](mensch-ärgere-dich-nicht.pcio)
 
 Board image taken from [Wikipedia](https://en.wikipedia.org/wiki/Mensch_%C3%A4rgere_Dich_nicht).
+
+
+## Sternhalma
+
+![Sternhalma](sternhalma.jpg)
+
+Room file: [sternhalma.pcio](sternhalma.pcio)
+
+Board image taken from [turning pages blog](http://ellenturningpages.blogspot.com/2010/06/colourful-halma.html).
