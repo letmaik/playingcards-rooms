@@ -19,3 +19,14 @@ Board image taken from [Wikipedia](https://en.wikipedia.org/wiki/Mensch_%C3%A4rg
 Room file: [sternhalma.pcio](sternhalma.pcio)
 
 Board image taken from [turning pages blog](http://ellenturningpages.blogspot.com/2010/06/colourful-halma.html).
+
+
+## Uno
+
+![Uno](uno.jpg)
+
+Room file: [uno.pcio](uno.pcio)
+
+Board image taken from [PublicDomainPictures.net](https://www.publicdomainpictures.net/en/view-image.php?image=173869&picture=table-2).
+
+Card images photographed myself.
